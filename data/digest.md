@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-10 16:23Z. Covers 2026-10-09 16:23Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-10 20:20Z. Covers 2026-10-09 20:20Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (5)
 - [2026-10-09] DLR REOPENING DATE: reopens 2026-10-16 — SHORTENED: Mad Tea Party (Disneyland Park) Refurbishment 2026-10-09..2026-10-15 (was 2026-10-08..2026-11-06)
@@ -15,17 +15,17 @@ Generated 2026-10-10 16:23Z. Covers 2026-10-09 16:23Z to now (24h). Every line s
 - [2026-10-09 23:49Z] WDW La Cantina de San Angel (EPCOT): 8 changes (8 up, 0 down), 1.3% to 7.1%
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-10-10 19:42Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-10 13:16Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-10 06:40Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-09 23:53Z] WDW: Pinocchio Village Haus: +2 new, -1 gone; Grand Floridian Cafe: +38 new, -34 gone, items 118 → 127 LIKELY NEW MENU; unlisted: 8 more new
 - [2026-10-09 23:01Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-09 18:38Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 3.1h ago OK
-- dlr-permit-watch: last run 2.6h ago OK
-- wdw-permit-watch: last run 2.6h ago OK
-- disney-menu-watch: last run 9.7h ago STALE (limit 8h)
-- wdw-menu-watch: last run 8.2h ago STALE (limit 8h)
-- paris-menu-watch: last run 4.2h ago OK
-- shanghai-menu-watch: last run 9.5h ago OK
+- closure-watch: last run 0.6h ago OK
+- dlr-permit-watch: last run 0.2h ago OK
+- wdw-permit-watch: last run 0.2h ago OK
+- disney-menu-watch: last run 13.7h ago STALE (limit 8h)
+- wdw-menu-watch: last run 12.1h ago STALE (limit 8h)
+- paris-menu-watch: last run 3.1h ago OK
+- shanghai-menu-watch: last run 13.4h ago OK
