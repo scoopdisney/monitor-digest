@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-13 21:35Z. Covers 2026-10-12 21:35Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-14 00:39Z. Covers 2026-10-13 00:39Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
@@ -28,10 +28,10 @@ Generated 2026-10-13 21:35Z. Covers 2026-10-12 21:35Z to now (24h). Every line s
 - [2026-10-13 01:05Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 1.8h ago OK
-- dlr-permit-watch: last run 1.7h ago OK
-- wdw-permit-watch: last run 1.7h ago OK
-- disney-menu-watch: last run 1.8h ago OK
-- wdw-menu-watch: last run 1.4h ago OK
-- paris-menu-watch: last run 2.6h ago OK
-- shanghai-menu-watch: last run 1.7h ago OK
+- closure-watch: last run 4.9h ago OK
+- dlr-permit-watch: last run 4.8h ago OK
+- wdw-permit-watch: last run 4.8h ago OK
+- disney-menu-watch: last run 4.9h ago OK
+- wdw-menu-watch: last run 4.5h ago OK
+- paris-menu-watch: last run 0.4h ago OK
+- shanghai-menu-watch: last run 4.8h ago OK
