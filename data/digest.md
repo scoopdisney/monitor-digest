@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-15 12:11Z. Covers 2026-10-14 12:11Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-15 17:24Z. Covers 2026-10-14 17:24Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (3)
 - [2026-10-15] DLR ENTERED THE WINDOW: "it's a small world" (Disneyland Park) Closed 2026-11-13..2026-11-13
@@ -36,19 +36,19 @@ Generated 2026-10-15 12:11Z. Covers 2026-10-14 12:11Z to now (24h). Every line s
 - [2026-10-14 18:19Z] WDW Choza de Margarita (EPCOT): 8 changes (8 up, 0 down), 2.7% to 7.1%
 
 ## Menu daily reports (new/gone items, venue changes) (7)
+- [2026-10-15 12:26Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-15 07:05Z] WDW: Amorette's Patisserie: -1 gone, items 45 → 44
 - [2026-10-15 05:32Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-14 23:03Z] WDW: The Daily Poutine: +1 new, items 10 → 11; The Crystal Palace: -1 gone, items 21 → 20; Jock Lindsey's Hangar Bar: -1 gone, items 64 → 63; River Roost: -3 gone, items 48 → 45; The Paddock Grill: -1 gone, items 75 → 74
 - [2026-10-14 22:03Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-14 18:22Z] WDW: The Front Porch at House of Blues: +12 new, -8 gone, items 53 → 57 LIKELY NEW MENU; The Smokehouse at House of Blues®: +12 new, -8 gone, items 53 → 57 LIKELY NEW MENU; Le Cellier Steakhouse: -1 gone, items 99 → 98; Narcoossee's: -3 gone, items 96 → 93; Yachtsman Steakhouse: items 101 → 100
 - [2026-10-14 17:46Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-14 12:38Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 6.7h ago OK
-- dlr-permit-watch: last run 6.2h ago OK
-- wdw-permit-watch: last run 6.3h ago OK
-- disney-menu-watch: last run 6.6h ago OK
-- wdw-menu-watch: last run 5.1h ago OK
-- paris-menu-watch: last run 1.2h ago OK
-- shanghai-menu-watch: last run 6.4h ago OK
+- closure-watch: last run 5.0h ago OK
+- dlr-permit-watch: last run 4.7h ago OK
+- wdw-permit-watch: last run 0.8h ago OK
+- disney-menu-watch: last run 11.9h ago STALE (limit 8h)
+- wdw-menu-watch: last run 10.3h ago STALE (limit 8h)
+- paris-menu-watch: last run 1.0h ago OK
+- shanghai-menu-watch: last run 11.6h ago OK
