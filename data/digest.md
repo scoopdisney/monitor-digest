@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-16 11:56Z. Covers 2026-10-15 11:56Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-16 17:00Z. Covers 2026-10-15 17:00Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (5)
 - [2026-10-15] DLR ENTERED THE WINDOW: "it's a small world" (Disneyland Park) Closed 2026-11-13..2026-11-13
@@ -35,19 +35,19 @@ Generated 2026-10-16 11:56Z. Covers 2026-10-15 11:56Z to now (24h). Every line s
 - [2026-10-15 18:01Z] WDW Everything POP Shopping & Dining (Pop Century Resort): 6 changes (5 up, 1 down), -2% to 10.2%
 
 ## Menu daily reports (new/gone items, venue changes) (7)
+- [2026-10-16 12:05Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-16 05:23Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-16 00:03Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-15 22:58Z] WDW: The Turf Club Bar and Grill: items 91 → 90
 - [2026-10-15 21:55Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-15 18:05Z] WDW: Rose & Crown Dining Room: -1 gone, items 56 → 55
 - [2026-10-15 17:35Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-15 12:26Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 6.6h ago OK
-- dlr-permit-watch: last run 6.0h ago OK
-- wdw-permit-watch: last run 6.1h ago OK
-- disney-menu-watch: last run 11.9h ago STALE (limit 8h)
-- wdw-menu-watch: last run 10.9h ago STALE (limit 8h)
-- paris-menu-watch: last run 1.1h ago OK
-- shanghai-menu-watch: last run 6.2h ago OK
+- closure-watch: last run 4.9h ago OK
+- dlr-permit-watch: last run 4.5h ago OK
+- wdw-permit-watch: last run 0.6h ago OK
+- disney-menu-watch: last run 17.0h ago STALE (limit 8h)
+- wdw-menu-watch: last run 15.9h ago STALE (limit 8h)
+- paris-menu-watch: last run 0.8h ago OK
+- shanghai-menu-watch: last run 11.3h ago OK
