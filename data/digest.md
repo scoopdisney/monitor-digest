@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-15 23:20Z. Covers 2026-10-14 23:20Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-16 01:44Z. Covers 2026-10-15 01:44Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (4)
 - [2026-10-15] DLR ENTERED THE WINDOW: "it's a small world" (Disneyland Park) Closed 2026-11-13..2026-11-13
@@ -41,7 +41,8 @@ Generated 2026-10-15 23:20Z. Covers 2026-10-14 23:20Z to now (24h). Every line s
 - [2026-10-15 18:01Z] WDW Fairfax Fare (Disney's Hollywood Studios): 1 changes (1 up, 0 down), 6.9% to 6.9%
 - [2026-10-15 18:01Z] WDW Everything POP Shopping & Dining (Pop Century Resort): 6 changes (5 up, 1 down), -2% to 10.2%
 
-## Menu daily reports (new/gone items, venue changes) (7)
+## Menu daily reports (new/gone items, venue changes) (8)
+- [2026-10-16 00:03Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-15 22:58Z] WDW: The Turf Club Bar and Grill: items 91 → 90
 - [2026-10-15 21:55Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-15 18:05Z] WDW: Rose & Crown Dining Room: -1 gone, items 56 → 55
@@ -51,10 +52,10 @@ Generated 2026-10-15 23:20Z. Covers 2026-10-14 23:20Z to now (24h). Every line s
 - [2026-10-15 05:32Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 1.4h ago OK
-- dlr-permit-watch: last run 1.0h ago OK
-- wdw-permit-watch: last run 1.0h ago OK
-- disney-menu-watch: last run 17.8h ago STALE (limit 8h)
-- wdw-menu-watch: last run 0.4h ago OK
-- paris-menu-watch: last run 2.3h ago OK
-- shanghai-menu-watch: last run 17.6h ago OK
+- closure-watch: last run 1.7h ago OK
+- dlr-permit-watch: last run 3.4h ago OK
+- wdw-permit-watch: last run 3.4h ago OK
+- disney-menu-watch: last run 1.7h ago OK
+- wdw-menu-watch: last run 0.7h ago OK
+- paris-menu-watch: last run 2.0h ago OK
+- shanghai-menu-watch: last run 20.0h ago OK
