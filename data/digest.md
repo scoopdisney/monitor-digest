@@ -1,8 +1,10 @@
 # Scoop monitor digest
-Generated 2026-10-17 19:43Z. Covers 2026-10-16 19:43Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-17 21:47Z. Covers 2026-10-16 21:47Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
-## Closures (1)
+## Closures (3)
 - [2026-10-16] DLR NEW CLOSURE: Davy Crockett's Explorer Canoes (Disneyland Park) Closed 2026-10-16..2026-10-16
+- [2026-10-17] DLR NEW CLOSURE: Davy Crockett's Explorer Canoes (Disneyland Park) Closed 2026-11-02..2026-11-05
+- [2026-10-17] DLR NEW CLOSURE: Sailing Ship Columbia (Disneyland Park) Closed 2026-11-02..2026-11-06
 
 ## Permits (4)
 - [2026-10-16 22:06Z] DLR STATUS BLD2026-04983 [Ready to Issue -> Issued]: DLR - DCA Central Energy Plant - Electrical: Install receptacles and LED fixtures in office.
@@ -13,7 +15,8 @@ Generated 2026-10-17 19:43Z. Covers 2026-10-16 19:43Z to now (24h). Every line s
 ## Menu prices by venue (0)
 - none
 
-## Menu daily reports (new/gone items, venue changes) (6)
+## Menu daily reports (new/gone items, venue changes) (7)
+- [2026-10-17 21:13Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-17 16:55Z] WDW: Tusker House Restaurant: -5 gone, items 32 → 27
 - [2026-10-17 16:07Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-17 11:20Z] DLR: napa-rose-lounge: items HTTP 404
@@ -22,10 +25,10 @@ Generated 2026-10-17 19:43Z. Covers 2026-10-16 19:43Z to now (24h). Every line s
 - [2026-10-16 21:54Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 3.6h ago OK
-- dlr-permit-watch: last run 3.3h ago OK
-- wdw-permit-watch: last run 3.3h ago OK
-- disney-menu-watch: last run 19.6h ago STALE (limit 8h)
-- wdw-menu-watch: last run 0.6h ago OK
-- paris-menu-watch: last run 4.7h ago OK
-- shanghai-menu-watch: last run 19.4h ago OK
+- closure-watch: last run 0.6h ago OK
+- dlr-permit-watch: last run 0.3h ago OK
+- wdw-permit-watch: last run 0.3h ago OK
+- disney-menu-watch: last run 21.6h ago STALE (limit 8h)
+- wdw-menu-watch: last run 2.7h ago OK
+- paris-menu-watch: last run 1.5h ago OK
+- shanghai-menu-watch: last run 21.4h ago OK
