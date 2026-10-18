@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-18 18:18Z. Covers 2026-10-17 18:18Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-18 21:06Z. Covers 2026-10-17 21:06Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (2)
 - [2026-10-17] DLR NEW CLOSURE: Davy Crockett's Explorer Canoes (Disneyland Park) Closed 2026-11-02..2026-11-05
@@ -23,10 +23,10 @@ Generated 2026-10-18 18:18Z. Covers 2026-10-17 18:18Z to now (24h). Every line s
 - [2026-10-17 21:13Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 2.0h ago OK
-- dlr-permit-watch: last run 1.7h ago OK
-- wdw-permit-watch: last run 1.7h ago OK
-- disney-menu-watch: last run 12.9h ago STALE (limit 8h)
-- wdw-menu-watch: last run 11.2h ago STALE (limit 8h)
-- paris-menu-watch: last run 2.8h ago OK
-- shanghai-menu-watch: last run 12.7h ago OK
+- closure-watch: last run 4.8h ago OK
+- dlr-permit-watch: last run 4.5h ago OK
+- wdw-permit-watch: last run 4.5h ago OK
+- disney-menu-watch: last run 15.7h ago STALE (limit 8h)
+- wdw-menu-watch: last run 14.0h ago STALE (limit 8h)
+- paris-menu-watch: last run 0.9h ago OK
+- shanghai-menu-watch: last run 15.5h ago OK
