@@ -1,40 +1,28 @@
 # Scoop monitor digest
-Generated 2026-10-20 19:39Z. Covers 2026-10-19 19:39Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-20 22:44Z. Covers 2026-10-19 22:44Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
-## Closures (0)
-- none
+## Closures (1)
+- [2026-10-20] DLR NEW CLOSURE: Splitsville Luxury Lanes™ – Bowling (Downtown Disney District) Closed 2026-11-16..2026-11-16
 
-## Permits (6)
+## Permits (2)
 - [2026-10-20 17:59Z] DLR NEW (revision) BLD2025-05309-REV01 [Plan Review]: DCA - BLDG #H - Tenant Improvement: Install 400amp subpanel, transformer and new conduit with wall penetration.
 - [2026-10-20 01:05Z] DLR STATUS (revision) BLD2025-04995-REV04 [Plan Review -> Closed]: DLH - Trader Sam's Enchanted Tiki Bar - Tenant Improvement: Replace (42) gas tiki torches with epoxy anchors at exterior. Install air conditioner at electrical room. Replace interior show effects, show lighting and lighting systems. With mechanical, electrical and plumbing.
-- [2026-10-19 21:04Z] DLR STATUS BLD2026-03845 [Issued -> Finaled]: DLR - TDA - Tenant Improvement: 4,542 sq ft office reconfiguration at first floor only. With electrical.
-- [2026-10-19 21:04Z] DLR STATUS BLD2026-03766 [Plan Review -> Ready to Issue]: DLR - Red Rose Taverne - Tenant Improvement: Remove and replace space heating and water boiler system on new concrete pad. With mechanical, electrical and plumbing.
-- [2026-10-19 21:04Z] DLR STATUS (revision) BLD2026-03329-REV01 [Plan Review -> Closed]: DLR - Ball Cast Member Lot - Accessory Building: 44 sq ft security booth on new concrete pad. Replace curb and ramp. With electrical.
-- [2026-10-19 21:04Z] DLR STATUS (revision) BLD2025-04584-REV29 [Plan Review -> Closed]: DCA - 760 Block/BLDG #761 - New Commercial Construction: 110,757 sq. ft. attraction building with restrooms, offices and breakroom. Construct 3,425 sq. ft. of canopies and (9) awnings.
 
-## Menu prices by venue (8)
-- [2026-10-20 18:21Z] WDW The Artist's Palette (Saratoga Springs Resort & Spa): 4 changes (3 up, 1 down), -10% to 57.1%
-- [2026-10-19 21:20Z] WDW River Roost (Port Orleans Resort - Riverside): 2 changes (2 up, 0 down), 6.4% to 8.6%
-- [2026-10-19 21:20Z] WDW Landscape of Flavors (Art of Animation Resort): 1 changes (1 up, 0 down), 3.8% to 3.8%
-- [2026-10-19 21:20Z] WDW Everything POP Shopping & Dining (Pop Century Resort): 1 changes (1 up, 0 down), 21.8% to 21.8%
-- [2026-10-19 21:20Z] WDW Cítricos Lounge (Grand Floridian Resort & Spa): 1 changes (1 up, 0 down), 4.9% to 4.9%
-- [2026-10-19 21:20Z] WDW Cítricos (Grand Floridian Resort & Spa): 1 changes (1 up, 0 down), 4.9% to 4.9%
-- [2026-10-19 21:20Z] WDW Beaches Pool Bar & Grill (Grand Floridian Resort & Spa): 1 changes (1 up, 0 down), 7.9% to 7.9%
-- [2026-10-19 21:20Z] WDW Ale & Compass Lounge (Yacht Club Resort): 1 changes (0 up, 1 down), -2.6% to -2.6%
+## Menu prices by venue (1)
+- [2026-10-20 18:21Z] WDW The Artist's Palette (Saratoga Springs Resort & Spa): 3 changes (2 up, 1 down), -10% to 21.7%
 
-## Menu daily reports (new/gone items, venue changes) (6)
+## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-10-20 22:03Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-20 17:45Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-20 12:31Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-20 05:39Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-20 00:54Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-19 21:24Z] WDW: Rose & Crown Dining Room: +1 new, items 55 → 56; Landscape of Flavors: +1 new, -1 gone; Beaches Pool Bar & Grill: +1 new; Gurgling Suitcase: +1 new; Petals Pool Bar: +1 new, -1 gone; The Beak and Barrel: -1 gone, items 25 → 24; GEO-82: -5 gone, items 39 → 34; On the Rocks Pool Bar: -3 gone, items 40 → 37; The Turf Club Bar and Grill: -1 gone, items 90 → 88
-- [2026-10-19 20:52Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 1.9h ago OK
-- dlr-permit-watch: last run 1.6h ago OK
-- wdw-permit-watch: last run 1.7h ago OK
-- disney-menu-watch: last run 18.8h ago STALE (limit 8h)
-- wdw-menu-watch: last run 1.2h ago OK
-- paris-menu-watch: last run 0.7h ago OK
-- shanghai-menu-watch: last run 18.6h ago OK
+- closure-watch: last run 0.7h ago OK
+- dlr-permit-watch: last run 0.4h ago OK
+- wdw-permit-watch: last run 0.4h ago OK
+- disney-menu-watch: last run 21.8h ago STALE (limit 8h)
+- wdw-menu-watch: last run 4.3h ago OK
+- paris-menu-watch: last run 3.8h ago OK
+- shanghai-menu-watch: last run 21.7h ago OK
