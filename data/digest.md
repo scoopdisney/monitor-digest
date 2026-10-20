@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-20 05:26Z. Covers 2026-10-19 05:26Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-20 10:28Z. Covers 2026-10-19 10:28Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
@@ -22,17 +22,17 @@ Generated 2026-10-20 05:26Z. Covers 2026-10-19 05:26Z to now (24h). Every line s
 - [2026-10-19 21:20Z] WDW Ale & Compass Lounge (Yacht Club Resort): 1 changes (0 up, 1 down), -2.6% to -2.6%
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-10-20 05:39Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-20 00:54Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-19 21:24Z] WDW: Rose & Crown Dining Room: +1 new, items 55 → 56; Landscape of Flavors: +1 new, -1 gone; Beaches Pool Bar & Grill: +1 new; Gurgling Suitcase: +1 new; Petals Pool Bar: +1 new, -1 gone; The Beak and Barrel: -1 gone, items 25 → 24; GEO-82: -5 gone, items 39 → 34; On the Rocks Pool Bar: -3 gone, items 40 → 37; The Turf Club Bar and Grill: -1 gone, items 90 → 88
 - [2026-10-19 20:52Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-19 14:18Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-19 05:39Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 4.5h ago OK
-- dlr-permit-watch: last run 4.3h ago OK
-- wdw-permit-watch: last run 1.2h ago OK
-- disney-menu-watch: last run 4.5h ago OK
-- wdw-menu-watch: last run 3.8h ago OK
-- paris-menu-watch: last run 5.3h ago OK
-- shanghai-menu-watch: last run 4.4h ago OK
+- closure-watch: last run 4.8h ago OK
+- dlr-permit-watch: last run 4.4h ago OK
+- wdw-permit-watch: last run 4.4h ago OK
+- disney-menu-watch: last run 9.6h ago STALE (limit 8h)
+- wdw-menu-watch: last run 8.8h ago STALE (limit 8h)
+- paris-menu-watch: last run 2.2h ago OK
+- shanghai-menu-watch: last run 9.4h ago OK
