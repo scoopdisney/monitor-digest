@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-21 06:39Z. Covers 2026-10-20 06:39Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-21 12:29Z. Covers 2026-10-20 12:29Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (1)
 - [2026-10-20] DLR NEW CLOSURE: Splitsville Luxury Lanes™ – Bowling (Downtown Disney District) Closed 2026-11-16..2026-11-16
@@ -22,10 +22,10 @@ Generated 2026-10-21 06:39Z. Covers 2026-10-20 06:39Z to now (24h). Every line s
 - [2026-10-20 12:31Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 1.0h ago OK
-- dlr-permit-watch: last run 0.6h ago OK
-- wdw-permit-watch: last run 0.6h ago OK
-- disney-menu-watch: last run 1.0h ago OK
-- wdw-menu-watch: last run 5.2h ago OK
-- paris-menu-watch: last run 3.2h ago OK
-- shanghai-menu-watch: last run 0.8h ago OK
+- closure-watch: last run 6.8h ago OK
+- dlr-permit-watch: last run 6.4h ago OK
+- wdw-permit-watch: last run 6.4h ago OK
+- disney-menu-watch: last run 6.8h ago OK
+- wdw-menu-watch: last run 11.0h ago STALE (limit 8h)
+- paris-menu-watch: last run 1.2h ago OK
+- shanghai-menu-watch: last run 6.6h ago OK
