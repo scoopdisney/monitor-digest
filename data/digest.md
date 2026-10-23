@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-23 06:35Z. Covers 2026-10-22 06:35Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-23 12:12Z. Covers 2026-10-22 12:12Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
@@ -17,22 +17,22 @@ Generated 2026-10-23 06:35Z. Covers 2026-10-22 06:35Z to now (24h). Every line s
 - [2026-10-23 06:03Z] DLR NEW (revision) BLD2024-06262-REV06 [Plan Review]: DLR - Oga's Cantina/BLDG #10060 - Tenant Improvement: New projectors on new high curb. With electrical.
 - [2026-10-22 22:21Z] WDW STATUS 260824-67093 [Pending-TechnicalReview -> Pending-ManagementReview]: NSA Dock Expansion https://www.sfwmd.gov/regpermitting
 
-## Menu prices by venue (0)
-- none
+## Menu prices by venue (1)
+- [2026-10-23 07:02Z] WDW La Cantina de San Angel (EPCOT): 21 changes (21 up, 0 down), 1.3% to 32%
 
 ## Menu daily reports (new/gone items, venue changes) (6)
+- [2026-10-23 07:05Z] WDW: La Cantina de San Angel: +1 new, items 36 → 37; Dockside Diner: -1 gone, items 35 → 33
 - [2026-10-23 05:42Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-22 22:04Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-22 18:23Z] WDW: World Premiere Food Court: +1 new, items 193 → 194
 - [2026-10-22 17:51Z] DLR: Pym Tasting Lab: -1 gone, items 18 → 17; napa-rose-lounge: items HTTP 404
 - [2026-10-22 12:45Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-22 07:14Z] WDW: Intermission Food Court: +1 new, items 213 → 214; End Zone Food Court: +1 new, items 204 → 205; The Mara: +2 new, items 155 → 157; Contempo Café: +1 new, items 150 → 151; Gasparilla Island Grill: +1 new, items 172 → 173; Roaring Fork: +1 new, items 141 → 142; Sassagoula Floatworks and Food Factory: -2 gone, items 205 → 203
 
 ## Monitor health
-- closure-watch: last run 0.9h ago OK
-- dlr-permit-watch: last run 0.5h ago OK
-- wdw-permit-watch: last run 0.5h ago OK
-- disney-menu-watch: last run 0.9h ago OK
+- closure-watch: last run 6.5h ago OK
+- dlr-permit-watch: last run 6.1h ago OK
+- wdw-permit-watch: last run 6.1h ago OK
+- disney-menu-watch: last run 6.5h ago OK
 - wdw-menu-watch: last run 5.1h ago OK
-- paris-menu-watch: last run 3.0h ago OK
-- shanghai-menu-watch: last run 0.7h ago OK
+- paris-menu-watch: last run 1.1h ago OK
+- shanghai-menu-watch: last run 6.3h ago OK
