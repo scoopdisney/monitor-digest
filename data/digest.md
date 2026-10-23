@@ -1,10 +1,13 @@
 # Scoop monitor digest
-Generated 2026-10-23 17:30Z. Covers 2026-10-22 17:30Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-23 20:40Z. Covers 2026-10-22 20:40Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
 
-## Permits (11)
+## Permits (14)
+- [2026-10-23 17:53Z] WDW STATUS 260824-67093 [Pending-ManagementReview -> Resolved-Completed]: NSA Dock Expansion https://www.sfwmd.gov/regpermitting
+- [2026-10-23 17:52Z] DLR STATUS BLD2026-02102 [Issued -> Finaled]: DLR - Katella Cast Parking Lot - Miscellaneous: Install (3) gate arms and (3) card readers. Restripe parking lot for accessibility stalls. With electrical. REF BLD2026-02101
+- [2026-10-23 17:52Z] DLR STATUS BLD2026-02101 [Issued -> Finaled]: DLR - Katella Cast Parking Lot - Miscellaneous: Install (3) gate arms and (3) card readers. Restripe parking lot for accessibility stalls. With electrical. REF BLD2026-02102
 - [2026-10-23 06:03Z] DLR NEW SGN2026-00140 [Plan Review]: DLR - CONF
 - [2026-10-23 06:03Z] DLR NEW BLD2026-05239 [Plan Review]: DLR - Peter Pan's Flight - Electrical: Install conduit.
 - [2026-10-23 06:03Z] DLR NEW BLD2026-05232 [Plan Review]: DLR - CONF
@@ -20,19 +23,18 @@ Generated 2026-10-23 17:30Z. Covers 2026-10-22 17:30Z to now (24h). Every line s
 ## Menu prices by venue (1)
 - [2026-10-23 07:02Z] WDW La Cantina de San Angel (EPCOT): 21 changes (21 up, 0 down), 1.3% to 32%
 
-## Menu daily reports (new/gone items, venue changes) (6)
+## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-10-23 17:41Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-23 12:23Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-23 07:05Z] WDW: La Cantina de San Angel: +1 new, items 36 → 37; Dockside Diner: -1 gone, items 35 → 33
 - [2026-10-23 05:42Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-22 22:04Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-22 18:23Z] WDW: World Premiere Food Court: +1 new, items 193 → 194
-- [2026-10-22 17:51Z] DLR: Pym Tasting Lab: -1 gone, items 18 → 17; napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 5.1h ago OK
-- dlr-permit-watch: last run 4.8h ago OK
-- wdw-permit-watch: last run 0.7h ago OK
-- disney-menu-watch: last run 11.8h ago STALE (limit 8h)
-- wdw-menu-watch: last run 10.4h ago STALE (limit 8h)
-- paris-menu-watch: last run 0.9h ago OK
-- shanghai-menu-watch: last run 11.6h ago OK
+- closure-watch: last run 3.0h ago OK
+- dlr-permit-watch: last run 2.8h ago OK
+- wdw-permit-watch: last run 2.8h ago OK
+- disney-menu-watch: last run 15.0h ago STALE (limit 8h)
+- wdw-menu-watch: last run 13.6h ago STALE (limit 8h)
+- paris-menu-watch: last run 4.1h ago OK
+- shanghai-menu-watch: last run 14.7h ago OK
