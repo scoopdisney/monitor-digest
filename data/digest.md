@@ -1,10 +1,10 @@
 # Scoop monitor digest
-Generated 2026-10-24 16:17Z. Covers 2026-10-23 16:17Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-24 19:05Z. Covers 2026-10-23 19:05Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
 
-## Permits (12)
+## Permits (9)
 - [2026-10-24 00:44Z] DLR STATUS BLD2026-05239 [Plan Review -> Ready to Issue]: DLR - Peter Pan's Flight - Electrical: Install conduit.
 - [2026-10-24 00:44Z] DLR STATUS BLD2026-05078 [Plan Review -> Ready to Issue]: DLR - Central Energy Plant/BLDG 608 - Tenant Improvement: Construct exterior elevated support bridge for pipe routing. New lines to connect to existing lines. Relace 15 ln ft x 16 ft tall portion of fence.
 - [2026-10-24 00:44Z] DLR NEW (revision) BLD2026-01882-REV03 [Plan Review]: DLR - Trolley Barn - Change of Use: 1,500 sq ft conversion of existing storage/maintenance space to photo-op. 76 sq ft canopy over exterior equipment anchored to new pad. With mechanical and electrical.
@@ -14,26 +14,23 @@ Generated 2026-10-24 16:17Z. Covers 2026-10-23 16:17Z to now (24h). Every line s
 - [2026-10-23 22:12Z] DLR STATUS BLD2026-05232 [Plan Review -> Ready to Issue]: DLR - CONF
 - [2026-10-23 22:12Z] DLR STATUS BLD2026-04712 [Issued -> Finaled]: DLR - Central Plaza - Holiday Film '26 - Miscellaneous: Install (2) light truss towers. (10/23/26 thru 10/26/26)
 - [2026-10-23 22:12Z] DLR STATUS BLD2026-03668 [Issued -> Finaled]: DLR - Rise of the Resistance - Plumbing: Remove existing domestic water piping and install new.
-- [2026-10-23 17:53Z] WDW STATUS 260824-67093 [Pending-ManagementReview -> Resolved-Completed]: NSA Dock Expansion https://www.sfwmd.gov/regpermitting
-- [2026-10-23 17:52Z] DLR STATUS BLD2026-02102 [Issued -> Finaled]: DLR - Katella Cast Parking Lot - Miscellaneous: Install (3) gate arms and (3) card readers. Restripe parking lot for accessibility stalls. With electrical. REF BLD2026-02101
-- [2026-10-23 17:52Z] DLR STATUS BLD2026-02101 [Issued -> Finaled]: DLR - Katella Cast Parking Lot - Miscellaneous: Install (3) gate arms and (3) card readers. Restripe parking lot for accessibility stalls. With electrical. REF BLD2026-02102
 
 ## Menu prices by venue (2)
 - [2026-10-24 06:54Z] WDW Cítricos Lounge (Grand Floridian Resort & Spa): 4 changes (4 up, 0 down), 2.7% to 12.7%
 - [2026-10-24 06:54Z] WDW Cítricos (Grand Floridian Resort & Spa): 4 changes (4 up, 0 down), 2.7% to 12.7%
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-10-24 16:26Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-24 11:50Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-24 05:20Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-24 00:14Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-23 21:49Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-23 17:41Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 4.5h ago OK
-- dlr-permit-watch: last run 4.2h ago OK
-- wdw-permit-watch: last run 0.6h ago OK
-- disney-menu-watch: last run 16.1h ago STALE (limit 8h)
-- wdw-menu-watch: last run 9.3h ago STALE (limit 8h)
-- paris-menu-watch: last run 0.8h ago OK
-- shanghai-menu-watch: last run 15.8h ago OK
+- closure-watch: last run 2.6h ago OK
+- dlr-permit-watch: last run 2.5h ago OK
+- wdw-permit-watch: last run 2.5h ago OK
+- disney-menu-watch: last run 18.9h ago STALE (limit 8h)
+- wdw-menu-watch: last run 12.1h ago STALE (limit 8h)
+- paris-menu-watch: last run 3.6h ago OK
+- shanghai-menu-watch: last run 18.6h ago OK
