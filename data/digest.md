@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-24 12:15Z. Covers 2026-10-23 12:15Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-24 16:17Z. Covers 2026-10-23 16:17Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
@@ -22,19 +22,18 @@ Generated 2026-10-24 12:15Z. Covers 2026-10-23 12:15Z to now (24h). Every line s
 - [2026-10-24 06:54Z] WDW Cítricos Lounge (Grand Floridian Resort & Spa): 4 changes (4 up, 0 down), 2.7% to 12.7%
 - [2026-10-24 06:54Z] WDW Cítricos (Grand Floridian Resort & Spa): 4 changes (4 up, 0 down), 2.7% to 12.7%
 
-## Menu daily reports (new/gone items, venue changes) (6)
+## Menu daily reports (new/gone items, venue changes) (5)
 - [2026-10-24 11:50Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-24 05:20Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-24 00:14Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-23 21:49Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-23 17:41Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-23 12:23Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 0.4h ago OK
-- dlr-permit-watch: last run 0.2h ago OK
-- wdw-permit-watch: last run 0.2h ago OK
-- disney-menu-watch: last run 12.0h ago STALE (limit 8h)
-- wdw-menu-watch: last run 5.3h ago OK
-- paris-menu-watch: last run 1.9h ago OK
-- shanghai-menu-watch: last run 11.8h ago OK
+- closure-watch: last run 4.5h ago OK
+- dlr-permit-watch: last run 4.2h ago OK
+- wdw-permit-watch: last run 0.6h ago OK
+- disney-menu-watch: last run 16.1h ago STALE (limit 8h)
+- wdw-menu-watch: last run 9.3h ago STALE (limit 8h)
+- paris-menu-watch: last run 0.8h ago OK
+- shanghai-menu-watch: last run 15.8h ago OK
