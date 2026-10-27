@@ -1,10 +1,11 @@
 # Scoop monitor digest
-Generated 2026-10-27 11:05Z. Covers 2026-10-26 11:05Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-27 16:53Z. Covers 2026-10-26 16:53Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
 
-## Permits (6)
+## Permits (7)
+- [2026-10-27 15:53Z] DLR STATUS BLD2026-03642 [Issued -> Finaled]: DLR - Alice in Wonderland - Tenant Improvement: Install new post with electrical for prop. New network enclosure with underground electrical and data conduit.
 - [2026-10-27 01:29Z] DLR NEW BLD2026-05299 [Plan Review]: DLH - Fantasy Tower - Tenant Improvement: Remove (2) air handling units, fan and ducting. Install new rooftop unit, ductwork and piping with new raised steel platform and screen walls. With electrical, mechanical and plumbing.
 - [2026-10-26 21:01Z] DLR STATUS BLD2026-05078 [Ready to Issue -> Issued]: DLR - Central Energy Plant/BLDG 608 - Tenant Improvement: Construct exterior elevated support bridge for pipe routing. New lines to connect to existing lines. Relace 15 ln ft x 16 ft tall portion of fence.
 - [2026-10-26 21:01Z] DLR STATUS BLD2026-04367 [Plan Review -> Issued]: DLR - Galactic Grill - Tenant Improvement: Replace (4) roof mounted make-up air units on new curbs and (4) exhaust fans. With mechanical and electrical.
@@ -16,17 +17,17 @@ Generated 2026-10-27 11:05Z. Covers 2026-10-26 11:05Z to now (24h). Every line s
 - none
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-10-27 15:42Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-27 09:34Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-27 01:04Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-26 21:27Z] WDW: Everything POP Shopping & Dining: +2 new, -2 gone; Good's Food to Go: -1 gone, items 104 → 103
 - [2026-10-26 20:53Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-26 13:51Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 1.5h ago OK
-- dlr-permit-watch: last run 1.2h ago OK
-- wdw-permit-watch: last run 1.3h ago OK
-- disney-menu-watch: last run 10.0h ago STALE (limit 8h)
-- wdw-menu-watch: last run 9.2h ago STALE (limit 8h)
-- paris-menu-watch: last run 2.4h ago OK
-- shanghai-menu-watch: last run 9.7h ago OK
+- closure-watch: last run 1.2h ago OK
+- dlr-permit-watch: last run 1.0h ago OK
+- wdw-permit-watch: last run 1.0h ago OK
+- disney-menu-watch: last run 15.8h ago STALE (limit 8h)
+- wdw-menu-watch: last run 15.0h ago STALE (limit 8h)
+- paris-menu-watch: last run 1.7h ago OK
+- shanghai-menu-watch: last run 15.5h ago OK
