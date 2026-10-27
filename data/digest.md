@@ -1,33 +1,30 @@
 # Scoop monitor digest
-Generated 2026-10-27 16:53Z. Covers 2026-10-26 16:53Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-27 21:29Z. Covers 2026-10-26 21:29Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
 
-## Permits (7)
+## Permits (4)
+- [2026-10-27 20:42Z] DLR STATUS BLD2026-05232 [Ready to Issue -> Issued]: DLR - TDA/North Service Area - Electrical: Install receptacle in flex conduit for new shownet cabinet at first floor.
+- [2026-10-27 20:42Z] DLR NEW SGN2026-00130 [Issued]: DCA - Paradise Pier - Install (1) non-illuminated sign anchored on to existing archway "Viva Navidad". (11-08-26 thru 1-06-27)
 - [2026-10-27 15:53Z] DLR STATUS BLD2026-03642 [Issued -> Finaled]: DLR - Alice in Wonderland - Tenant Improvement: Install new post with electrical for prop. New network enclosure with underground electrical and data conduit.
 - [2026-10-27 01:29Z] DLR NEW BLD2026-05299 [Plan Review]: DLH - Fantasy Tower - Tenant Improvement: Remove (2) air handling units, fan and ducting. Install new rooftop unit, ductwork and piping with new raised steel platform and screen walls. With electrical, mechanical and plumbing.
-- [2026-10-26 21:01Z] DLR STATUS BLD2026-05078 [Ready to Issue -> Issued]: DLR - Central Energy Plant/BLDG 608 - Tenant Improvement: Construct exterior elevated support bridge for pipe routing. New lines to connect to existing lines. Relace 15 ln ft x 16 ft tall portion of fence.
-- [2026-10-26 21:01Z] DLR STATUS BLD2026-04367 [Plan Review -> Issued]: DLR - Galactic Grill - Tenant Improvement: Replace (4) roof mounted make-up air units on new curbs and (4) exhaust fans. With mechanical and electrical.
-- [2026-10-26 21:01Z] DLR STATUS BLD2026-03327 [Issued -> Finaled]: DCA - BOH - Electrical: Install new power receptacles for parade float charging.
-- [2026-10-26 21:01Z] DLR STATUS (revision) BLD2025-05348-REV05 [Plan Review -> Closed]: DCA - Substation #210/BOH - Site Work: 562 sq. ft. new canopy at side of building. Install (13) light poles and (9) EV-Chargers. 13 ln ft x 3 ft high retaining, 100 ln. ft. x 8 ft. high CMU wall and 99 ln. ft. x 8 ft. high chain link fence. With electrical, mechanical and plumbing
-- [2026-10-26 21:01Z] DLR DETAIL BLD2026-05232 [DLR - TDA/North Service Area - Electrical: Install receptacle in flex conduit for new shownet cabinet at first floor.]: DLR - TDA/North Service Area - Electrical: Install receptacle in flex conduit for new shownet cabinet at first floor.
 
 ## Menu prices by venue (0)
 - none
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-10-27 21:12Z] WDW: Pecos Bill Tall Tale Inn and Cafe: +2 new, -2 gone; Roaring Fork: -1 gone, items 142 → 141
+- [2026-10-27 20:24Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-27 15:42Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-27 09:34Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-27 01:04Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-26 21:27Z] WDW: Everything POP Shopping & Dining: +2 new, -2 gone; Good's Food to Go: -1 gone, items 104 → 103
-- [2026-10-26 20:53Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 1.2h ago OK
-- dlr-permit-watch: last run 1.0h ago OK
-- wdw-permit-watch: last run 1.0h ago OK
-- disney-menu-watch: last run 15.8h ago STALE (limit 8h)
-- wdw-menu-watch: last run 15.0h ago STALE (limit 8h)
-- paris-menu-watch: last run 1.7h ago OK
-- shanghai-menu-watch: last run 15.5h ago OK
+- closure-watch: last run 1.1h ago OK
+- dlr-permit-watch: last run 0.8h ago OK
+- wdw-permit-watch: last run 0.8h ago OK
+- disney-menu-watch: last run 20.4h ago STALE (limit 8h)
+- wdw-menu-watch: last run 0.3h ago OK
+- paris-menu-watch: last run 6.3h ago OK
+- shanghai-menu-watch: last run 20.1h ago OK
