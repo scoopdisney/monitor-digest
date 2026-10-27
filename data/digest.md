@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-27 05:43Z. Covers 2026-10-26 05:43Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-27 11:05Z. Covers 2026-10-26 11:05Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
@@ -15,19 +15,18 @@ Generated 2026-10-27 05:43Z. Covers 2026-10-26 05:43Z to now (24h). Every line s
 ## Menu prices by venue (0)
 - none
 
-## Menu daily reports (new/gone items, venue changes) (6)
+## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-10-27 09:34Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-27 01:04Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-26 21:27Z] WDW: Everything POP Shopping & Dining: +2 new, -2 gone; Good's Food to Go: -1 gone, items 104 → 103
 - [2026-10-26 20:53Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-26 13:51Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-26 07:32Z] WDW: World Premiere Food Court: -1 gone, items 194 → 193; Intermission Food Court: -1 gone, items 214 → 213; End Zone Food Court: -1 gone, items 205 → 204; The Mara: -2 gone, items 157 → 155; Contempo Café: -1 gone, items 151 → 150; Gasparilla Island Grill: -1 gone, items 173 → 172
-- [2026-10-26 05:44Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 4.6h ago OK
-- dlr-permit-watch: last run 4.2h ago OK
+- closure-watch: last run 1.5h ago OK
+- dlr-permit-watch: last run 1.2h ago OK
 - wdw-permit-watch: last run 1.3h ago OK
-- disney-menu-watch: last run 4.6h ago OK
-- wdw-menu-watch: last run 3.8h ago OK
-- paris-menu-watch: last run 5.4h ago OK
-- shanghai-menu-watch: last run 4.3h ago OK
+- disney-menu-watch: last run 10.0h ago STALE (limit 8h)
+- wdw-menu-watch: last run 9.2h ago STALE (limit 8h)
+- paris-menu-watch: last run 2.4h ago OK
+- shanghai-menu-watch: last run 9.7h ago OK
