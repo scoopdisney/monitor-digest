@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-28 06:22Z. Covers 2026-10-27 06:22Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-28 13:36Z. Covers 2026-10-27 13:36Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
@@ -14,18 +14,19 @@ Generated 2026-10-28 06:22Z. Covers 2026-10-27 06:22Z to now (24h). Every line s
 ## Menu prices by venue (0)
 - none
 
-## Menu daily reports (new/gone items, venue changes) (5)
+## Menu daily reports (new/gone items, venue changes) (6)
+- [2026-10-28 11:04Z] WDW: Columbia Harbour House: +6 new, -3 gone, items 38 → 41
+- [2026-10-28 06:38Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-28 00:57Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-27 21:12Z] WDW: Pecos Bill Tall Tale Inn and Cafe: +2 new, -2 gone; Roaring Fork: -1 gone, items 142 → 141
 - [2026-10-27 20:24Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-27 15:42Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-27 09:34Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 5.4h ago OK
-- dlr-permit-watch: last run 4.9h ago OK
-- wdw-permit-watch: last run 1.5h ago OK
-- disney-menu-watch: last run 5.4h ago OK
-- wdw-menu-watch: last run 4.3h ago OK
-- paris-menu-watch: last run 2.1h ago OK
-- shanghai-menu-watch: last run 5.3h ago OK
+- closure-watch: last run 6.9h ago OK
+- dlr-permit-watch: last run 3.0h ago OK
+- wdw-permit-watch: last run 3.0h ago OK
+- disney-menu-watch: last run 12.7h ago STALE (limit 8h)
+- wdw-menu-watch: last run 2.5h ago OK
+- paris-menu-watch: last run 1.3h ago OK
+- shanghai-menu-watch: last run 12.5h ago OK
