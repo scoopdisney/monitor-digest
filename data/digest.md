@@ -1,11 +1,13 @@
 # Scoop monitor digest
-Generated 2026-10-29 02:56Z. Covers 2026-10-28 02:56Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-29 10:27Z. Covers 2026-10-28 10:27Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (2)
 - [2026-10-28] DLR NEW CLOSURE: Space Mountain (Disneyland Park) Refurbishment 2026-11-10..2026-11-10
 - [2026-10-29] WDW ENTERED THE WINDOW: Living with the Land (EPCOT) Closed 2026-11-27..2026-11-27
 
-## Permits (10)
+## Permits (12)
+- [2026-10-29 07:08Z] DLR STATUS (revision) BLD2026-01882-REV03 [Plan Review -> Closed]: DLR - Trolley Barn - Change of Use: 1,500 sq ft conversion of existing storage/maintenance space to photo-op. 76 sq ft canopy over exterior equipment anchored to new pad. With mechanical and electrical.
+- [2026-10-29 07:08Z] DLR STATUS (revision) BLD2026-00906-REV02 [Plan Review -> Closed]: DLR - Finding Nemo - Dry Dock Facility - Non-Residential Addition: 56 sq ft addition for room to house new air compressor. Infill double door opening and create single door. With electrical.
 - [2026-10-28 23:14Z] DLR STATUS SGN2026-00140 [Plan Review -> Issued]: DCA - QSR #763 - Bountiful Valley Brews - Install (1) non-illuminated marquee, (1) non-illuminated hanging menu, (1) non-illuminated blade sign and (1) non-illuminated directional sign. (BLD2025-06429)
 - [2026-10-28 23:14Z] DLR STATUS (revision) BLD2024-06262-REV06 [Plan Review -> Closed]: DLR - Oga's Cantina/BLDG #10060 - Tenant Improvement: New projectors on new high curb. With electrical.
 - [2026-10-28 23:14Z] DLR STATUS (revision) BLD2024-06261-REV06 [Plan Review -> Closed]: DLR - Smugglers Run/BLDG #1003 - Tenant Improvement: New projectors on new high curb. With electrical and mechanical.
@@ -21,17 +23,17 @@ Generated 2026-10-29 02:56Z. Covers 2026-10-28 02:56Z to now (24h). Every line s
 - [2026-10-28 20:43Z] DLR GCH Craftsman Grill (Grand Californian Hotel): 1 changes (1 up, 0 down), 5.9% to 5.9%
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-10-29 08:10Z] WDW: The Plaza Restaurant: +2 new, items 60 → 62; GEO-82: +2 new, -2 gone; Sanaa: +1 new, items 96 → 97; On the Rocks Pool Bar: +1 new, items 37 → 38; The Hollywood Brown Derby: -1 gone, items 79 → 78; The Hollywood Brown Derby Lounge: -1 gone, items 79 → 78
 - [2026-10-29 01:30Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-28 20:45Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-28 13:47Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-28 11:04Z] WDW: Columbia Harbour House: +6 new, -3 gone, items 38 → 41
-- [2026-10-28 06:38Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 1.4h ago OK
-- dlr-permit-watch: last run 3.7h ago OK
-- wdw-permit-watch: last run 3.7h ago OK
-- disney-menu-watch: last run 1.4h ago OK
-- wdw-menu-watch: last run 15.9h ago STALE (limit 8h)
-- paris-menu-watch: last run 2.3h ago OK
-- shanghai-menu-watch: last run 25.8h ago OK
+- closure-watch: last run 9.0h ago STALE (limit 8h)
+- dlr-permit-watch: last run 3.3h ago OK
+- wdw-permit-watch: last run 3.3h ago OK
+- disney-menu-watch: last run 9.0h ago STALE (limit 8h)
+- wdw-menu-watch: last run 2.3h ago OK
+- paris-menu-watch: last run 1.0h ago OK
+- shanghai-menu-watch: last run 3.6h ago OK
