@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-10-31 07:34Z. Covers 2026-10-30 07:34Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-10-31 13:55Z. Covers 2026-10-30 13:55Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
@@ -13,16 +13,17 @@ Generated 2026-10-31 07:34Z. Covers 2026-10-30 07:34Z to now (24h). Every line s
 ## Menu prices by venue (0)
 - none
 
-## Menu daily reports (new/gone items, venue changes) (3)
+## Menu daily reports (new/gone items, venue changes) (4)
+- [2026-10-31 10:48Z] WDW: The Mara: -2 gone, items 155 → 153; Beach Club Marketplace: -1 gone, items 151 → 150; BoardWalk Deli: -1 gone, items 99 → 98; Trail's End Restaurant: -1 gone, items 122 → 121; Contempo Café: -1 gone, items 150 → 149; Gasparilla Island Grill: -1 gone, items 172 → 171; The Market at Ale & Compass: -1 gone, items 128 → 127
+- [2026-10-31 10:10Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-31 01:24Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-10-30 20:21Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-10-30 13:48Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 6.2h ago OK
-- dlr-permit-watch: last run 0.5h ago OK
-- wdw-permit-watch: last run 0.5h ago OK
-- disney-menu-watch: last run 6.2h ago OK
-- wdw-menu-watch: last run 5.5h ago OK
-- paris-menu-watch: last run 3.3h ago OK
-- shanghai-menu-watch: last run 0.7h ago OK
+- closure-watch: last run 3.7h ago OK
+- dlr-permit-watch: last run 0.2h ago OK
+- wdw-permit-watch: last run 0.2h ago OK
+- disney-menu-watch: last run 12.5h ago STALE (limit 8h)
+- wdw-menu-watch: last run 3.1h ago OK
+- paris-menu-watch: last run 2.1h ago OK
+- shanghai-menu-watch: last run 7.0h ago OK
