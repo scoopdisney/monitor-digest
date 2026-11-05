@@ -1,10 +1,12 @@
 # Scoop monitor digest
-Generated 2026-11-05 15:50Z. Covers 2026-11-04 15:50Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-11-05 22:24Z. Covers 2026-11-04 22:24Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
 
-## Permits (161)
+## Permits (162)
+- [2026-11-05 20:40Z] DLR STATUS BLD2026-04788 [Issued -> Finaled]: Mechanical and Plumbing to support DLH - Goofy's Kitchen - Tenant Improvement. REF:BLD2026-02690
+- [2026-11-05 20:40Z] DLR STATUS BLD2026-02690 [Issued -> Finaled]: DLH - Goofy's Kitchen - Tenant Improvement: Install (4) ice machines anchored to existing concrete. With mechanical, electrical and plumbing.
 - [2026-11-05 07:42Z] DLR NEW BLD2026-05448 [Issued]: Plumbing to support DLR - Red Rose Taverne - Miscellaneous. REF BLD2026-03767
 - [2026-11-05 07:42Z] DLR NEW BLD2026-05438 [Issued]: Plumbing and mechanical to support DLR - Red Rose Taverne - Tenant Improvement. REF BLD2026-03766
 - [2026-11-05 07:42Z] DLR NEW BLD2026-05357 [Issued]: Electrical to support DCA - Avenger's Campus - Tenant Improvement. REF BLD2026-04450
@@ -43,25 +45,23 @@ Generated 2026-11-05 15:50Z. Covers 2026-11-04 15:50Z to now (24h). Every line s
 - [2026-11-05 07:42Z] DLR BACKFILL BLD2026-04788 [Issued]: Mechanical and Plumbing to support DLH - Goofy's Kitchen - Tenant Improvement. REF:BLD2026-02690
 - [2026-11-05 07:42Z] DLR BACKFILL BLD2026-04706 [Finaled]: Electrical to support DLR - Coca-Cola Corner Cafe/Candy Palace - Tenant Improvement. REF:BLD2026-03380
 - [2026-11-05 07:42Z] DLR BACKFILL BLD2026-04705 [Finaled]: Electrical to support DLR - TDA - Tenant Improvement. REF:BLD2026-03845
-- [2026-11-05 07:42Z] DLR BACKFILL BLD2026-04703 [Issued]: Plumbing to support DLR - BCML - Central Bakery - Tenant Improvement. REF:BLD2026-02808
-- [2026-11-05 07:42Z] DLR BACKFILL BLD2026-04682 [Issued]: Mechanical and Plumbing to support DCA - Grizzly Peak - Rushin' River Outfitters - Tenant Improvement. REF:BLD2026-03191
-- ...and 121 more permit rows (see the repo file)
+- ...and 122 more permit rows (see the repo file)
 
 ## Menu prices by venue (0)
 - none
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-11-05 21:00Z] WDW: Main Street Bakery: +6 new, items 55 → 61; Connections Café: +6 new, items 53 → 59; Catalina Eddie's: +1 new, items 33 → 34; Rosie's All-American Café: +1 new, items 38 → 39; The Trolley Car Café: +6 new, items 53 → 59; Creature Comforts: +6 new, items 52 → 58; Jiko - The Cooking Place: +2 new, -2 gone; Trail's End Restaurant: +2 new, items 121 → 123; Contempo Café: +2 new, items 149 → 151; Riverside Mill Food Court: +2 new, items 174 → 176; The Artist's Palette: +2 new, items 180 → 182; Columbia Harbour House: -2 gone, items 40 → 38
+- [2026-11-05 20:28Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-05 13:01Z] WDW: ABC Commissary: -1 gone, items 44 → 43; Backlot Express: -1 gone, items 47 → 46; Dockside Diner: -1 gone, items 34 → 33; Leaning Palms: -1 gone, items 49 → 48; Lottawatta Lodge: -1 gone, items 44 → 43
 - [2026-11-05 11:49Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-05 01:58Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-11-04 20:43Z] WDW: Liberty Square Market: +1 new, -1 gone; Storybook Treats: +1 new, items 8 → 9; Erin McKenna's Bakery NYC: +15 new, -9 gone, items 29 → 35 LIKELY NEW MENU; Cítricos: +4 new, -4 gone; Cítricos Lounge: +4 new, -4 gone; Yachtsman Steakhouse: +5 new, -4 gone, items 100 → 101
-- [2026-11-04 20:15Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 4.0h ago OK
-- dlr-permit-watch: last run 3.4h ago OK
-- wdw-permit-watch: last run 3.4h ago OK
-- disney-menu-watch: last run 4.0h ago OK
-- wdw-menu-watch: last run 2.8h ago OK
-- paris-menu-watch: last run 5.4h ago OK
-- shanghai-menu-watch: last run 13.7h ago OK
+- closure-watch: last run 1.9h ago OK
+- dlr-permit-watch: last run 1.7h ago OK
+- wdw-permit-watch: last run 1.7h ago OK
+- disney-menu-watch: last run 10.6h ago STALE (limit 8h)
+- wdw-menu-watch: last run 1.4h ago OK
+- paris-menu-watch: last run 2.8h ago OK
+- shanghai-menu-watch: last run 20.3h ago OK
