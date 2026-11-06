@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-11-06 11:37Z. Covers 2026-11-05 11:37Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-11-06 18:31Z. Covers 2026-11-05 18:31Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
@@ -10,21 +10,21 @@ Generated 2026-11-06 11:37Z. Covers 2026-11-05 11:37Z to now (24h). Every line s
 - [2026-11-05 20:40Z] DLR STATUS BLD2026-04788 [Issued -> Finaled]: Mechanical and Plumbing to support DLH - Goofy's Kitchen - Tenant Improvement. REF:BLD2026-02690
 - [2026-11-05 20:40Z] DLR STATUS BLD2026-02690 [Issued -> Finaled]: DLH - Goofy's Kitchen - Tenant Improvement: Install (4) ice machines anchored to existing concrete. With mechanical, electrical and plumbing.
 
-## Menu prices by venue (0)
-- none
+## Menu prices by venue (1)
+- [2026-11-06 12:43Z] WDW Rosie's All-American Café (Disney's Hollywood Studios): 1 changes (1 up, 0 down), 5% to 5%
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-11-06 12:47Z] WDW: Cosmic Ray's Starlight Café: +2 new, -5 gone, items 38 → 35; Connections Eatery: +1 new, items 41 → 42; ABC Commissary: +3 new, -1 gone, items 43 → 45; Backlot Express: +2 new, -1 gone, items 46 → 47; Catalina Eddie's: +1 new, -1 gone; Dockside Diner: +2 new, items 33 → 35; Fairfax Fare: +2 new, items 32 → 34; Rosie's All-American Café: +1 new, items 39 → 40; Flame Tree Barbecue: +1 new, -1 gone; The Friar's Nook: -2 gone, items 25 → 23
+- [2026-11-06 11:45Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-06 01:58Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-05 21:00Z] WDW: Main Street Bakery: +6 new, items 55 → 61; Connections Café: +6 new, items 53 → 59; Catalina Eddie's: +1 new, items 33 → 34; Rosie's All-American Café: +1 new, items 38 → 39; The Trolley Car Café: +6 new, items 53 → 59; Creature Comforts: +6 new, items 52 → 58; Jiko - The Cooking Place: +2 new, -2 gone; Trail's End Restaurant: +2 new, items 121 → 123; Contempo Café: +2 new, items 149 → 151; Riverside Mill Food Court: +2 new, items 174 → 176; The Artist's Palette: +2 new, items 180 → 182; Columbia Harbour House: -2 gone, items 40 → 38
 - [2026-11-05 20:28Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-11-05 13:01Z] WDW: ABC Commissary: -1 gone, items 44 → 43; Backlot Express: -1 gone, items 47 → 46; Dockside Diner: -1 gone, items 34 → 33; Leaning Palms: -1 gone, items 49 → 48; Lottawatta Lodge: -1 gone, items 44 → 43
-- [2026-11-05 11:49Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 9.7h ago STALE (limit 8h)
-- dlr-permit-watch: last run 9.1h ago STALE (limit 8h)
-- wdw-permit-watch: last run 5.8h ago OK
-- disney-menu-watch: last run 9.6h ago STALE (limit 8h)
-- wdw-menu-watch: last run 8.3h ago STALE (limit 8h)
-- paris-menu-watch: last run 1.1h ago OK
-- shanghai-menu-watch: last run 9.4h ago OK
+- closure-watch: last run 6.8h ago OK
+- dlr-permit-watch: last run 6.3h ago OK
+- wdw-permit-watch: last run 6.4h ago OK
+- disney-menu-watch: last run 16.6h ago STALE (limit 8h)
+- wdw-menu-watch: last run 5.7h ago OK
+- paris-menu-watch: last run 8.0h ago OK
+- shanghai-menu-watch: last run 16.3h ago OK
