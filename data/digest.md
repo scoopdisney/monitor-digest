@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-11-07 10:43Z. Covers 2026-11-06 10:43Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-11-07 16:39Z. Covers 2026-11-06 16:39Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
@@ -16,22 +16,21 @@ Generated 2026-11-07 10:43Z. Covers 2026-11-06 10:43Z to now (24h). Every line s
 - [2026-11-06 19:57Z] DLR STATUS BLD2026-04173 [Issued -> Finaled]: DLR - Winnie the Pooh - Electrical: Install duplex receptacle feeding from emergency panel.
 - [2026-11-06 19:57Z] DLR STATUS BLD2026-02826 [Issued -> Finaled]: Electrical to support DCA - Carthay Circle - Tenant Improvement. REF BLD2026-02111
 
-## Menu prices by venue (2)
+## Menu prices by venue (1)
 - [2026-11-06 20:15Z] WDW Casey's Corner (Magic Kingdom): 1 changes (1 up, 0 down), 4.7% to 4.7%
-- [2026-11-06 12:43Z] WDW Rosie's All-American Café (Disney's Hollywood Studios): 1 changes (1 up, 0 down), 5% to 5%
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-11-07 11:35Z] WDW: Connections Eatery: +1 new, items 42 → 43; Backlot Express: +1 new, items 47 → 48; Milk Stand: +1 new, items 9 → 10; Rosie's All-American Café: +1 new, items 41 → 42
+- [2026-11-07 10:52Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-07 01:34Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-06 20:19Z] WDW: Cosmic Ray's Starlight Café: +5 new, items 35 → 40; Sunshine Tree Terrace: +2 new, items 16 → 18; Catalina Eddie's: +1 new, items 34 → 35; Rosie's All-American Café: +1 new, items 40 → 41; Harambe Market: +1 new, items 31 → 32; Casey's Corner: items 32 → 31
 - [2026-11-06 19:50Z] DLR: napa-rose-lounge: items HTTP 404
-- [2026-11-06 12:47Z] WDW: Cosmic Ray's Starlight Café: +2 new, -5 gone, items 38 → 35; Connections Eatery: +1 new, items 41 → 42; ABC Commissary: +3 new, -1 gone, items 43 → 45; Backlot Express: +2 new, -1 gone, items 46 → 47; Catalina Eddie's: +1 new, -1 gone; Dockside Diner: +2 new, items 33 → 35; Fairfax Fare: +2 new, items 32 → 34; Rosie's All-American Café: +1 new, items 39 → 40; Flame Tree Barbecue: +1 new, -1 gone; The Friar's Nook: -2 gone, items 25 → 23
-- [2026-11-06 11:45Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 9.1h ago STALE (limit 8h)
-- dlr-permit-watch: last run 8.7h ago STALE (limit 8h)
-- wdw-permit-watch: last run 5.3h ago OK
-- disney-menu-watch: last run 9.1h ago STALE (limit 8h)
-- wdw-menu-watch: last run 8.1h ago STALE (limit 8h)
-- paris-menu-watch: last run 1.0h ago OK
-- shanghai-menu-watch: last run 8.9h ago OK
+- closure-watch: last run 5.8h ago OK
+- dlr-permit-watch: last run 5.5h ago OK
+- wdw-permit-watch: last run 5.6h ago OK
+- disney-menu-watch: last run 15.1h ago STALE (limit 8h)
+- wdw-menu-watch: last run 5.1h ago OK
+- paris-menu-watch: last run 6.9h ago OK
+- shanghai-menu-watch: last run 14.8h ago OK
