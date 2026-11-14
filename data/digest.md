@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-11-14 07:05Z. Covers 2026-11-13 07:05Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-11-14 14:33Z. Covers 2026-11-13 14:33Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (11)
 - [2026-11-13] WDW EXTENDED: Chairlift (Disney's Blizzard Beach Water Park) Closed 2026-11-13..2026-11-15 (was 2026-11-13..2026-11-14)
@@ -33,15 +33,15 @@ Generated 2026-11-14 07:05Z. Covers 2026-11-13 07:05Z to now (24h). Every line s
 - none
 
 ## Menu daily reports (new/gone items, venue changes) (3)
+- [2026-11-14 11:11Z] DLR: Cozy Cone Motel: -1 gone, items 43 → 42; napa-rose-lounge: items HTTP 404
 - [2026-11-14 01:58Z] DLR: Refreshment Corner: +1 new, items 29 → 30; Paradise Garden Grill: +1 new, -1 gone; Studio Catering Co.: +1 new, -1 gone; River Belle Terrace: -1 gone, items 25 → 24; napa-rose-lounge: items HTTP 404
 - [2026-11-13 20:17Z] DLR: Hollywood Lounge: +2 new, -2 gone; napa-rose-lounge: items HTTP 404
-- [2026-11-13 11:50Z] DLR: Carnation Café: +1 new, -4 gone, items 47 → 44; Plaza Inn: +1 new, -1 gone; Bengal Barbecue: +1 new, -2 gone, items 16 → 15; Jolly Holiday Bakery Cafe: +15 new, -21 gone, items 73 → 67 LIKELY NEW MENU; Rancho del Zocalo Restaurante: +1 new, -1 gone; River Belle Terrace: +1 new, -1 gone; Alien Pizza Planet: +8 new, items 31 → 39; The Golden Horseshoe: +3 new, -3 gone; Stage Door Café: +4 new, -4 gone; Royal Street Veranda: +2 new, -2 gone; Mint Julep Bar: +3 new, -1 gone, items 17 → 16; Harbour Galley: items 36 → 34; Tiki Juice Bar: items 7 → 6; Market House: items 82 → 83; Refreshment Corner: items 30 → 29; Gibson Girl Ice Cream Parlor: items 27 → 26; Red Rose Taverne: items 38 → 37; Maurice's Treats: items 14 → 13; Galactic Grill: items 62 → 59; Lamplight Lounge: items 73 → 74; Lamplight Lounge - Boardwalk Dining: items 49 → 50; Flo's V8 Cafe: items 34 → 33; Pym Test Kitchen: items 47 → 46; Smokejumpers Grill: items 55 → 52; Paradise Garden Grill: items 29 → 27; Fiddler, Fifer & Practical Cafe: items 82 → 83; Clarabelle's Hand-Scooped Ice Cream: items 33 → 32; Award Wieners: items 26 → 24; Studio Catering Co.: items 12 → 10; Schmoozies!: items 30 → 29; Cozy Cone Motel: items 49 → 43; Sonoma Terrace: items 32 → 31; Aunt Cass Café: items 42 → 38; Port of San Fransokyo Cervecería: items 16 → 15; Lucky Fortune Cookery: items 26 → 25; Cocina Cucamonga Mexican Grill: items 29 → 25; Boardwalk Pizza & Pasta: items 41 → 38; Trader Sam's Enchanted Tiki Bar: items 58 → 59; Hearthstone Lounge: items 123 → 122; napa-rose-lounge: items HTTP 404; unlisted: 119 more new, 161 more gone
 
 ## Monitor health
-- closure-watch: last run 5.1h ago OK
-- dlr-permit-watch: last run 4.6h ago OK
-- wdw-permit-watch: last run 1.4h ago OK
-- disney-menu-watch: last run 5.1h ago OK
-- wdw-menu-watch: last run 6.3h ago OK
-- paris-menu-watch: last run 2.0h ago OK
-- shanghai-menu-watch: last run 4.9h ago OK
+- closure-watch: last run 3.4h ago OK
+- dlr-permit-watch: last run 3.0h ago OK
+- wdw-permit-watch: last run 3.0h ago OK
+- disney-menu-watch: last run 3.4h ago OK
+- wdw-menu-watch: last run 5.8h ago OK
+- paris-menu-watch: last run 1.5h ago OK
+- shanghai-menu-watch: last run 12.4h ago OK
