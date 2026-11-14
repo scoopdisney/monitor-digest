@@ -1,5 +1,5 @@
 # Scoop monitor digest
-Generated 2026-11-14 14:33Z. Covers 2026-11-13 14:33Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-11-14 19:31Z. Covers 2026-11-13 19:31Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (11)
 - [2026-11-13] WDW EXTENDED: Chairlift (Disney's Blizzard Beach Water Park) Closed 2026-11-13..2026-11-15 (was 2026-11-13..2026-11-14)
@@ -32,16 +32,17 @@ Generated 2026-11-14 14:33Z. Covers 2026-11-13 14:33Z to now (24h). Every line s
 ## Menu prices by venue (0)
 - none
 
-## Menu daily reports (new/gone items, venue changes) (3)
+## Menu daily reports (new/gone items, venue changes) (4)
+- [2026-11-14 18:38Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-14 11:11Z] DLR: Cozy Cone Motel: -1 gone, items 43 → 42; napa-rose-lounge: items HTTP 404
 - [2026-11-14 01:58Z] DLR: Refreshment Corner: +1 new, items 29 → 30; Paradise Garden Grill: +1 new, -1 gone; Studio Catering Co.: +1 new, -1 gone; River Belle Terrace: -1 gone, items 25 → 24; napa-rose-lounge: items HTTP 404
 - [2026-11-13 20:17Z] DLR: Hollywood Lounge: +2 new, -2 gone; napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 3.4h ago OK
-- dlr-permit-watch: last run 3.0h ago OK
-- wdw-permit-watch: last run 3.0h ago OK
-- disney-menu-watch: last run 3.4h ago OK
-- wdw-menu-watch: last run 5.8h ago OK
-- paris-menu-watch: last run 1.5h ago OK
-- shanghai-menu-watch: last run 12.4h ago OK
+- closure-watch: last run 0.9h ago OK
+- dlr-permit-watch: last run 0.7h ago OK
+- wdw-permit-watch: last run 0.8h ago OK
+- disney-menu-watch: last run 8.3h ago STALE (limit 8h)
+- wdw-menu-watch: last run 10.8h ago STALE (limit 8h)
+- paris-menu-watch: last run 6.5h ago OK
+- shanghai-menu-watch: last run 17.3h ago OK
