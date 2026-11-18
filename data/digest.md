@@ -1,10 +1,17 @@
 # Scoop monitor digest
-Generated 2026-11-17 22:42Z. Covers 2026-11-16 22:42Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-11-18 03:54Z. Covers 2026-11-17 03:54Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## Closures (0)
 - none
 
-## Permits (8)
+## Permits (15)
+- [2026-11-18 01:37Z] DLR STATUS BLD2026-05361 [Plan Review -> Issued]: DLR - Old Administration Building - Tenant Improvement: Replace aluminum panels along north catwalk. Replace (1) fabric awning at east side.
+- [2026-11-18 01:37Z] DLR STATUS BLD2026-05326 [Plan Review -> Issued]: DCA - Guardians of the Galaxy - Tenant Improvement: Extend existing 5th floor platform. Install cable hoists, traveling cable boxes and electrical.
+- [2026-11-18 01:37Z] DLR STATUS BLD2026-04070 [Plan Review -> Ready to Issue]: DCA - Redwood Creek Trail - Holiday - Miscellaneous: Install (1) stage with ramp. (11/08/26 thru 01/06/27)
+- [2026-11-18 01:37Z] DLR STATUS (revision) BLD2026-04983-REV01 [Plan Review -> Closed]: DLR - DCA Central Energy Plant - Electrical: Install receptacles and LED fixtures in office.
+- [2026-11-18 01:37Z] DLR NEW BLD2026-05761 [Plan Review]: DLR - CONF
+- [2026-11-18 01:37Z] DLR NEW BLD2026-05737 [Plan Review]: DCA - Soaring Over California - World Of Color - Site Work: Install storage tank on new concrete pad.
+- [2026-11-18 01:37Z] DLR DETAIL BLD2026-04070 [DCA - Redwood Creek Trail - Holiday - Miscellaneous: Install (1) stage with ramp. (11/08/26 thru 01/06/27)]: DCA - Redwood Creek Trail - Holiday - Miscellaneous: Install (1) stage with ramp. (11/08/26 thru 01/06/27)
 - [2026-11-17 16:53Z] DLR STATUS BLD2026-05702 [Ready to Issue -> Issued]: Electrical to support DLR - Main Street/Block 600 - Tenant Improvement. REF:BLD2026-01981
 - [2026-11-17 16:53Z] DLR STATUS (revision) FPI2026-00184-REV02 [Plan Check -> Closed]: DISNEYLAND PARK - NEW ORLEANS SQUARE PIRATES OF THE CARIBBEAN BLDG. 3101 - ADD NEW FIRE ALARM CONTROL PANELS AND TRANSPONDERS
 - [2026-11-17 16:53Z] DLR DETAIL BLD2026-05704 [DCA - BOH - World Of Color - Site Work: Install (5) storage tanks, air-cooled dryer and associated equipment on new concrete pads to support new compressor plant.]: DCA - BOH - World Of Color - Site Work: Install (5) storage tanks, air-cooled dryer and associated equipment on new concrete pads to support new compressor plant.
@@ -17,17 +24,18 @@ Generated 2026-11-17 22:42Z. Covers 2026-11-16 22:42Z to now (24h). Every line s
 ## Menu prices by venue (1)
 - [2026-11-17 04:17Z] DLR Market House (Disneyland Park): 1 changes (1 up, 0 down), 12.5% to 12.5%
 
-## Menu daily reports (new/gone items, venue changes) (4)
+## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-11-18 01:29Z] DLR: GCH Craftsman Bar: +1 new, -1 gone; Hearthstone Lounge: +1 new, -1 gone; Fiddler, Fifer & Practical Cafe: -1 gone, items 83 → 82; The Sketch Pad Café: -19 gone; napa-rose-lounge: items HTTP 404
 - [2026-11-17 16:40Z] DLR: Docking Bay 7 Food and Cargo: +1 new, -1 gone; Oga's Cantina at the Disneyland Resort: +2 new, items 27 → 29; Milk Stand: +2 new, -3 gone, items 7 → 6; Carthay Circle Restaurant: +11 new, -11 gone LIKELY NEW MENU; napa-rose-lounge: items HTTP 404
 - [2026-11-17 14:18Z] WDW: The Hollywood Brown Derby: +6 new, -10 gone, items 78 → 74 LIKELY NEW MENU; The Hollywood Brown Derby Lounge: +6 new, -10 gone, items 78 → 74 LIKELY NEW MENU
 - [2026-11-17 05:02Z] WDW: The Hollywood Brown Derby: +1 new; The Hollywood Brown Derby Lounge: +1 new; Cheshire Café: -1 gone, items 12 → 11; Boatwright's Dining Hall: -1 gone, items 75 → 74
 - [2026-11-17 04:18Z] DLR: Plaza Inn: -1 gone, items 23 → 22; napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 6.0h ago OK
-- dlr-permit-watch: last run 5.7h ago OK
-- wdw-permit-watch: last run 2.0h ago OK
-- disney-menu-watch: last run 6.0h ago OK
-- wdw-menu-watch: last run 8.4h ago STALE (limit 8h)
-- paris-menu-watch: last run 4.5h ago OK
-- shanghai-menu-watch: last run 18.2h ago OK
+- closure-watch: last run 2.4h ago OK
+- dlr-permit-watch: last run 2.2h ago OK
+- wdw-permit-watch: last run 2.3h ago OK
+- disney-menu-watch: last run 2.4h ago OK
+- wdw-menu-watch: last run 4.1h ago OK
+- paris-menu-watch: last run 1.1h ago OK
+- shanghai-menu-watch: last run 2.3h ago OK
