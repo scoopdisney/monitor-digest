@@ -94,6 +94,25 @@ for (const [r, lim] of Object.entries(REPOS)) {
   } catch (e) { health.push(`- ${r}: could not check (${e.message})`); alerts.push(`- ${r}: could not check (${e.message})`); }
 }
 
+const KNOWN_FAILS = /napa-rose-lounge/i; // long-standing 404 kept on purpose; not news
+// Scanners with no health file report trouble in their run comments instead. Read the newest comment in
+// the window and flag aborts and failures, so a broken menu or closure scan can't sit unnoticed.
+for (const r of ['closure-watch', 'disney-menu-watch', 'wdw-menu-watch', 'paris-menu-watch', 'shanghai-menu-watch']) {
+  try {
+    let newest = null;
+    for (const i of await api(`/repos/${O}/${r}/issues?state=open&per_page=5`))
+      for (const c of await api(`/repos/${O}/${r}/issues/${i.number}/comments?since=${since.toISOString()}&per_page=100`))
+        if (!newest || c.created_at > newest.created_at) newest = c;
+    if (!newest) continue;
+    const b = newest.body || '';
+    const when = stamp(new Date(newest.created_at));
+    const fails = [...b.matchAll(/^###\s*(?:Venue|Fetch) failures\s*\n((?:- .*\n?)+)/gim)].flatMap(m => m[1].trim().split('\n')).map(l => l.replace(/^- /, '')).filter(l => !KNOWN_FAILS.test(l));
+    const closureFails = (b.match(/\*\*Failures:\*\*\s*(.*)/) || [])[1];
+    if (/ABORTED/.test(b)) alerts.push(`- ${r}: last run ABORTED (${when}): ${(b.match(/Only .*?\./) || [''])[0]}`);
+    else if (fails.length || closureFails) alerts.push(`- ${r}: ${fails.length || 'some'} failure(s) in last run (${when}): ${(closureFails || fails.join(' · ')).slice(0, 200)}`);
+  } catch (e) { errors.push(`${r} run comments: ${e.message}`); }
+}
+
 const sec = (t, l, what) => [`## ${t} (${l.length})`, ...(l.length ? cap(l, what) : ['- none']), ''];
 const md = [
   `# Scoop monitor digest`,
