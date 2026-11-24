@@ -73,19 +73,32 @@ const dailies = await safe('daily reports', async () => {
 
 const REPOS = { 'closure-watch': 8, 'dlr-permit-watch': 8, 'wdw-permit-watch': 8,
   'disney-menu-watch': 8, 'wdw-menu-watch': 8, 'paris-menu-watch': 26, 'shanghai-menu-watch': 26 };
-const health = [];
+const health = [], alerts = [];
 for (const [r, lim] of Object.entries(REPOS)) {
   try {
     const [c] = await api(`/repos/${O}/${r}/commits?per_page=1`);
     const age = (now - new Date(c.commit.committer.date)) / 3600e3;
-    health.push(`- ${r}: last run ${age.toFixed(1)}h ago ${age > lim ? `STALE (limit ${lim}h)` : 'OK'}`);
-  } catch (e) { health.push(`- ${r}: could not check (${e.message})`); }
+    // A recent commit only proves the job ran. Also read the scanner's own health file, so a source that
+    // fails inside a run (e.g. Accela 502s, 2026-11-18 to 11-24, reported here as "OK") shows up.
+    let inner = '';
+    try {
+      const hj = JSON.parse(await raw(r, 'data/scan/health.json'));
+      for (const [src, st] of Object.entries(hj.sources || {})) {
+        if (!st.ok) { inner += `; ${src} FAILING: ${String(st.error || '').slice(0, 120)}`; alerts.push(`- ${r} / ${src} is FAILING: ${String(st.error || '').slice(0, 160)}`); }
+        else if (/PARTIAL/.test(st.note || '')) { inner += `; ${src} PARTIAL`; alerts.push(`- ${r} / ${src} ran PARTIAL: ${String(st.note).slice(0, 200)}`); }
+      }
+    } catch { /* this scanner has no data/scan/health.json */ }
+    const stale = age > lim;
+    if (stale) alerts.push(`- ${r} is STALE: last run ${age.toFixed(1)}h ago (limit ${lim}h)`);
+    health.push(`- ${r}: last run ${age.toFixed(1)}h ago ${stale ? `STALE (limit ${lim}h)` : inner ? 'RAN' : 'OK'}${inner}`);
+  } catch (e) { health.push(`- ${r}: could not check (${e.message})`); alerts.push(`- ${r}: could not check (${e.message})`); }
 }
 
 const sec = (t, l, what) => [`## ${t} (${l.length})`, ...(l.length ? cap(l, what) : ['- none']), ''];
 const md = [
   `# Scoop monitor digest`,
   `Generated ${stamp(now)}. Covers ${stamp(since)} to now (${HOURS}h). Every line starts with its UTC time; read only lines inside your window.`, '',
+  ...(alerts.length ? ['## SCANNER PROBLEMS (report these to Matthew at the top of the email)', ...alerts, ''] : []),
   ...sec('Closures', closures, 'closure rows'),
   ...sec('Permits', permits, 'permit rows'),
   ...sec('Menu prices by venue', prices, 'venues'),
