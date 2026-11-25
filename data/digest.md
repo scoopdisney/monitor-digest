@@ -1,9 +1,9 @@
 # Scoop monitor digest
-Generated 2026-11-25 10:33Z. Covers 2026-11-24 10:33Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-11-25 20:14Z. Covers 2026-11-24 20:14Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## SCANNER PROBLEMS (report these to Matthew at the top of the email)
-- dlr-permit-watch / anaheim-accela ran PARTIAL: 11 searches across Building/Fire/Planning x 7 streets; PARTIAL, skipped 4: Building/HARBOR 2026-10-26, Building/MAGIC 2026-05-29, Building/MAGIC 2026-06-28, Building/MAGIC 2026-07-28; stopped early af
-- disney-menu-watch is STALE: last run 10.2h ago (limit 8h)
+- dlr-permit-watch / anaheim-accela ran PARTIAL: 10 searches across Building/Fire/Planning x 7 streets; PARTIAL, skipped 4: Building/HARBOR 2026-09-26, Building/HARBOR 2026-10-26, Building/MAGIC 2026-05-29, Building/MAGIC 2026-06-28; stopped early a
+- disney-menu-watch is STALE: last run 19.9h ago (limit 8h)
 
 ## Closures (22)
 - [2026-11-24] WDW NEW CLOSURE: Chairlift (Disney's Blizzard Beach Water Park) Closed 2026-11-25..2026-11-25
@@ -29,7 +29,8 @@ Generated 2026-11-25 10:33Z. Covers 2026-11-24 10:33Z to now (24h). Every line s
 - [2026-11-25] WDW NEW CLOSURE: Tike's Peak (Disney's Blizzard Beach Water Park) Closed 2026-11-27..2026-11-28
 - [2026-11-25] WDW NEW CLOSURE: Toboggan Racers (Disney's Blizzard Beach Water Park) Closed 2026-11-27..2026-11-28
 
-## Permits (11)
+## Permits (12)
+- [2026-11-25 19:57Z] DLR STATUS (revision) BLD2025-05291-REV04 [Approved -> Closed]: DTD - Building A - Non-Residential Addition: 11,407 sq ft new restaurant over existing basement level. 2,222 sq ft basement to be remodeled. 2,879 sq ft outdoor covered dining and 400 sq ft canopy over entrance.
 - [2026-11-25 00:45Z] DLR STATUS BLD2026-05608 [Plan Review -> Issued]: DLR - Small World Mall - Feliz '26 - Miscellaneous: Install (2) light towers. (12-11-26 thru 12-17-26
 - [2026-11-25 00:45Z] DLR STATUS BLD2026-05480 [Plan Review -> Issued]: DLR - Haunted Mansion/BLDG #3501 - Tenant Improvement: Install 460 ln ft x 8 ft tall chain link fence throughout basement level. With electrical.
 - [2026-11-25 00:45Z] DLR STATUS BLD2026-04983 [Issued -> Finaled]: DLR - DCA Central Energy Plant - Electrical: Install receptacles and LED fixtures in office.
@@ -42,23 +43,25 @@ Generated 2026-11-25 10:33Z. Covers 2026-11-24 10:33Z to now (24h). Every line s
 - [2026-11-25 00:45Z] DLR NEW (revision) BLD2025-05043-REV02 [Closed]: DLR - East Esplanade - Site Work: Install 106 ln ft x 8 ft high chain link fence and 65 ln ft x 8 ft high wood fence. Relocate (1) light pole.
 - [2026-11-25 00:45Z] DLR DETAIL BLD2026-05608 [DLR - Small World Mall - Feliz '26 - Miscellaneous: Install (2) light towers. (12-11-26 thru 12-17-26]: DLR - Small World Mall - Feliz '26 - Miscellaneous: Install (2) light towers. (12-11-26 thru 12-17-26
 
-## Menu prices by venue (2)
+## Menu prices by venue (4)
+- [2026-11-25 15:18Z] WDW The Land Cart (EPCOT): 1 changes (1 up, 0 down), 14.3% to 14.3%
+- [2026-11-25 15:18Z] WDW Narcoossee's (Grand Floridian Resort & Spa): 1 changes (1 up, 0 down), 5% to 5%
 - [2026-11-25 00:17Z] DLR Market House (Disneyland Park): 3 changes (3 up, 0 down), 12.5% to 12.5%
 - [2026-11-25 00:17Z] DLR Fiddler, Fifer & Practical Cafe (Disney California Adventure): 3 changes (3 up, 0 down), 12.5% to 12.5%
 
 ## Menu daily reports (new/gone items, venue changes) (6)
+- [2026-11-25 19:44Z] DLR: napa-rose-lounge: items HTTP 404
+- [2026-11-25 15:22Z] WDW: World Premiere Food Court: +3 new, items 192 → 195; Intermission Food Court: +3 new, items 212 → 215; End Zone Food Court: +3 new, items 203 → 206; The Mara: +1 new, items 154 → 155; Landscape of Flavors: +4 new, items 223 → 227; Trail's End Restaurant: +1 new, items 122 → 123; Centertown Market: +3 new, items 195 → 198; Contempo Café: +2 new, -1 gone, items 151 → 152; Good's Food to Go: +1 new, items 87 → 88; Capt. Cook's: +3 new, items 113 → 116; Everything POP Shopping & Dining: +3 new, items 225 → 228; Sassagoula Floatworks and Food Factory: +3 new, items 203 → 206; Roaring Fork: +3 new, items 143 → 146; Primo Piatto: +1 new, -4 gone, items 173 → 170; Gasparilla Island Grill: items 173 → 174
 - [2026-11-25 09:29Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-25 00:19Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-24 23:41Z] WDW: Takumi-Tei: +2 new, -2 gone
 - [2026-11-24 23:37Z] WDW: Be Our Guest Restaurant: +4 new, items 40 → 44; Cinderella's Royal Table: +6 new, items 44 → 50; The Crystal Palace: +6 new, items 20 → 26; Liberty Tree Tavern: +4 new, items 21 → 25; Astrofizz: +17 new; Energy Bytes: +3 new; Akershus Royal Banquet Hall: items 36 → 42; Biergarten Restaurant: items 10 → 14; Garden Grill Restaurant: items 26 → 32; Hollywood & Vine: items 23 → 29; Tusker House Restaurant: items 27 → 33; Boma - Flavors of Africa: items 24 → 28; Cape May Cafe: items 21 → 25; The Cake Bake Shop® Restaurant by Gwendolyn Rogers: items 228 → 230; California Grill: items 15 → 17; Chef Mickey's: items 22 → 26; 1900 Park Fare: items 19 → 23; 'Ohana: items 31 → 35; Story Book Dining at Artist Point with Snow White: items 19 → 21; unlisted: 3662 more new
-- [2026-11-24 19:24Z] WDW: Kat Saka's Kettle: -1 gone, items 10 → 9; Toledo - Tapas, Steak & Seafood: items 122 → 121
-- [2026-11-24 14:30Z] DLR: napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 1.0h ago OK
-- dlr-permit-watch: last run 0.6h ago RAN; anaheim-accela PARTIAL
-- wdw-permit-watch: last run 0.7h ago OK
-- disney-menu-watch: last run 10.2h ago STALE (limit 8h)
-- wdw-menu-watch: last run 7.1h ago OK
-- paris-menu-watch: last run 6.5h ago OK
-- shanghai-menu-watch: last run 10.0h ago OK
+- closure-watch: last run 0.5h ago OK
+- dlr-permit-watch: last run 0.2h ago RAN; anaheim-accela PARTIAL
+- wdw-permit-watch: last run 0.3h ago OK
+- disney-menu-watch: last run 19.9h ago STALE (limit 8h)
+- wdw-menu-watch: last run 4.9h ago OK
+- paris-menu-watch: last run 3.3h ago OK
+- shanghai-menu-watch: last run 19.7h ago OK
