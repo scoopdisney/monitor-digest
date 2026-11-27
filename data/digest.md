@@ -1,8 +1,9 @@
 # Scoop monitor digest
-Generated 2026-11-27 04:36Z. Covers 2026-11-26 04:36Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-11-27 14:27Z. Covers 2026-11-26 14:27Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## SCANNER PROBLEMS (report these to Matthew at the top of the email)
-- dlr-permit-watch / anaheim-accela ran PARTIAL: 10 searches across Building/Fire/Planning x 7 streets; PARTIAL, skipped 4: Building/HARBOR 2026-09-28, Building/HARBOR 2026-10-28, Building/MAGIC 2026-05-31, Building/MAGIC 2026-06-30; stopped early a
+- dlr-permit-watch / anaheim-accela ran PARTIAL: 11 searches across Building/Fire/Planning x 7 streets; PARTIAL, skipped 4: Building/HARBOR 2026-10-28, Building/MAGIC 2026-05-31, Building/MAGIC 2026-06-30, Building/MAGIC 2026-07-30; stopped early af
+- wdw-menu-watch is STALE: last run 11.6h ago (limit 8h)
 
 ## Closures (0)
 - none
@@ -13,16 +14,15 @@ Generated 2026-11-27 04:36Z. Covers 2026-11-26 04:36Z to now (24h). Every line s
 ## Menu prices by venue (0)
 - none
 
-## Menu daily reports (new/gone items, venue changes) (3)
+## Menu daily reports (new/gone items, venue changes) (2)
+- [2026-11-27 09:24Z] DLR: Carnation Café: +3 new, -3 gone; Carthay Circle Restaurant: +1 new, -1 gone; Plaza Inn: -2 gone, items 24 → 22; Tiana’s Palace: -3 gone, items 22 → 19; Lamplight Lounge: -2 gone, items 76 → 74; Flo's V8 Cafe: -2 gone, items 33 → 31; Pym Test Kitchen: -2 gone, items 46 → 44; Wine Country Trattoria: -3 gone, items 59 → 56; napa-rose-lounge: items HTTP 404
 - [2026-11-27 00:17Z] DLR: Tiana’s Palace: -3 gone, items 25 → 22; napa-rose-lounge: items HTTP 404
-- [2026-11-26 13:30Z] DLR: Carnation Café: +3 new, -1 gone, items 45 → 47; Cafe Orleans: +1 new, items 26 → 27; Plaza Inn: +2 new, items 22 → 24; Tiana’s Palace: +3 new, -3 gone; Lamplight Lounge: +2 new, items 74 → 76; Carthay Circle Restaurant: +1 new, -1 gone; Wine Country Trattoria: +3 new, items 56 → 59; napa-rose-lounge: items HTTP 404
-- [2026-11-26 10:34Z] WDW: Astrofizz: +1 new, items 17 → 18; Cosmic Ray's Starlight Café: -3 gone, items 40 → 38; ABC Commissary: -1 gone, items 54 → 53; Backlot Express: -1 gone, items 55 → 54; Catalina Eddie's: -1 gone, items 35 → 34; Dockside Diner: -1 gone, items 40 → 39; Fairfax Fare: -1 gone, items 40 → 39; Rosie's All-American Café: -1 gone, items 42 → 41; Woody's Lunch Box: -1 gone, items 40 → 39
 
 ## Monitor health
-- closure-watch: last run 4.3h ago OK
-- dlr-permit-watch: last run 3.9h ago RAN; anaheim-accela PARTIAL
-- wdw-permit-watch: last run 4.0h ago OK
-- disney-menu-watch: last run 4.3h ago OK
-- wdw-menu-watch: last run 1.8h ago OK
-- paris-menu-watch: last run 1.0h ago OK
-- shanghai-menu-watch: last run 2.5h ago OK
+- closure-watch: last run 5.1h ago OK
+- dlr-permit-watch: last run 4.7h ago RAN; anaheim-accela PARTIAL
+- wdw-permit-watch: last run 4.7h ago OK
+- disney-menu-watch: last run 5.1h ago OK
+- wdw-menu-watch: last run 11.6h ago STALE (limit 8h)
+- paris-menu-watch: last run 10.8h ago OK
+- shanghai-menu-watch: last run 12.3h ago OK
