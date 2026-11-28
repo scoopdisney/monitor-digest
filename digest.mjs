@@ -94,7 +94,7 @@ for (const [r, lim] of Object.entries(REPOS)) {
   } catch (e) { health.push(`- ${r}: could not check (${e.message})`); alerts.push(`- ${r}: could not check (${e.message})`); }
 }
 
-const KNOWN_FAILS = /napa-rose-lounge/i; // long-standing 404 kept on purpose; not news
+const KNOWN_FAILS = /(?!)/; // nothing ignored (napa-rose-lounge fixed 2026-11-27)
 // Scanners with no health file report trouble in their run comments instead. Read the newest comment in
 // the window and flag aborts and failures, so a broken menu or closure scan can't sit unnoticed.
 for (const r of ['closure-watch', 'disney-menu-watch', 'wdw-menu-watch', 'paris-menu-watch', 'shanghai-menu-watch']) {
