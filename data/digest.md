@@ -1,9 +1,8 @@
 # Scoop monitor digest
-Generated 2026-11-28 05:00Z. Covers 2026-11-27 05:00Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
+Generated 2026-11-28 14:35Z. Covers 2026-11-27 14:35Z to now (24h). Every line starts with its UTC time; read only lines inside your window.
 
 ## SCANNER PROBLEMS (report these to Matthew at the top of the email)
 - dlr-permit-watch / anaheim-accela ran PARTIAL: 10 searches across Building/Fire/Planning x 7 streets; PARTIAL, skipped 4: Building/HARBOR 2026-09-29, Building/HARBOR 2026-10-29, Building/MAGIC 2026-06-01, Building/MAGIC 2026-07-01; stopped early a
-- shanghai-menu-watch is STALE: last run 26.9h ago (limit 26h)
 
 ## Closures (13)
 - [2026-11-27] WDW EXTENDED: Chairlift (Disney's Blizzard Beach Water Park) Closed 2026-11-27..2026-11-29 (was 2026-11-27..2026-11-28)
@@ -27,17 +26,17 @@ Generated 2026-11-28 05:00Z. Covers 2026-11-27 05:00Z to now (24h). Every line s
 - none
 
 ## Menu daily reports (new/gone items, venue changes) (5)
+- [2026-11-28 12:40Z] DLR: Napa Rose: +2 new; Aunt Cass Café: -1 gone
 - [2026-11-28 03:42Z] DLR: napa-rose-lounge: items HTTP 404
 - [2026-11-28 00:26Z] WDW: Everything POP Shopping & Dining: -3 gone, items 228 → 225; Tangierine Café: items Flavors of the Medina: 13 → 10; Holiday Kitchen - Season’s Eatings: items 14 → 15
 - [2026-11-27 19:20Z] DLR: Tiana’s Palace: +3 new, items 19 → 22; napa-rose-lounge: items HTTP 404
 - [2026-11-27 14:48Z] WDW: Cosmic Ray's Starlight Café: +3 new, items 38 → 40; World Premiere Food Court: -3 gone, items 195 → 192; Intermission Food Court: -3 gone, items 215 → 212; End Zone Food Court: -3 gone, items 206 → 203; Landscape of Flavors: -3 gone, items 227 → 224; Trail's End Restaurant: -1 gone, items 123 → 122; Centertown Market: -3 gone, items 198 → 195; Contempo Café: -2 gone, items 152 → 150; Capt. Cook's: -3 gone, items 116 → 113; Sassagoula Floatworks and Food Factory: -3 gone, items 206 → 203; Riverside Mill Food Court: -3 gone, items 180 → 177; The Artist's Palette: -2 gone, items 184 → 182; Roaring Fork: -3 gone, items 146 → 143; Primo Piatto: -1 gone, items 170 → 169; Gasparilla Island Grill: items 174 → 173
-- [2026-11-27 09:24Z] DLR: Carnation Café: +3 new, -3 gone; Carthay Circle Restaurant: +1 new, -1 gone; Plaza Inn: -2 gone, items 24 → 22; Tiana’s Palace: -3 gone, items 22 → 19; Lamplight Lounge: -2 gone, items 76 → 74; Flo's V8 Cafe: -2 gone, items 33 → 31; Pym Test Kitchen: -2 gone, items 46 → 44; Wine Country Trattoria: -3 gone, items 59 → 56; napa-rose-lounge: items HTTP 404
 
 ## Monitor health
-- closure-watch: last run 1.3h ago OK
-- dlr-permit-watch: last run 1.0h ago RAN; anaheim-accela PARTIAL
-- wdw-permit-watch: last run 1.1h ago OK
-- disney-menu-watch: last run 1.3h ago OK
-- wdw-menu-watch: last run 4.6h ago OK
-- paris-menu-watch: last run 3.8h ago OK
-- shanghai-menu-watch: last run 26.9h ago STALE (limit 26h)
+- closure-watch: last run 1.9h ago OK
+- dlr-permit-watch: last run 1.5h ago RAN; anaheim-accela PARTIAL
+- wdw-permit-watch: last run 1.5h ago OK
+- disney-menu-watch: last run 1.9h ago OK
+- wdw-menu-watch: last run 4.7h ago OK
+- paris-menu-watch: last run 3.1h ago OK
+- shanghai-menu-watch: last run 5.7h ago OK
